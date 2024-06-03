@@ -1,0 +1,15 @@
+{
+    "name": "asus/mvc-crud1",
+    "autoload": {
+        "psr-4": {
+            "Asus\\MvcCrud1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ho Trung",
+            "email": "hotrung662004@gmail.com"
+        }
+    ],
+    "require": {}
+}
