@@ -1,11 +1,11 @@
 <?php
 
-namespace Asus\MvcCrud\Controllers\Admin;
+namespace Asus\MvcCrud1\Controllers\Admin;
 
-use Asus\MvcCrud\Commons\Controller;
-use Asus\MvcCrud\Commons\Helper;
-use Asus\MvcCrud\Models\Category;
-use Asus\MvcCrud\Models\Product;
+use Asus\MvcCrud1\Commons\Controller;
+use Asus\MvcCrud1\Commons\Helper;
+use Asus\MvcCrud1\Models\Category;
+use Asus\MvcCrud1\Models\Product;
 use Rakit\Validation\Validator;
 
 class ProductController extends Controller{

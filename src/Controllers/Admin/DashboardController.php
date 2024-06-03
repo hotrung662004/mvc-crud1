@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Asus\MvcCrud\Controllers\Admin;
+namespace Asus\MvcCrud1\Controllers\Admin;
 
-use Asus\MvcCrud\Commons\Controller;
+use Asus\MvcCrud1\Commons\Controller;
 
 class DashboardController extends Controller
 {

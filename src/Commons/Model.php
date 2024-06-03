@@ -1,6 +1,6 @@
 <?php
 
-namespace Asus\MvcCrud\Commons;
+namespace Asus\MvcCrud1\Commons;
 
 use Doctrine\DBAL\Connection;
 use Doctrine\DBAL\DriverManager;

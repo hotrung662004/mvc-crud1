@@ -1,7 +1,7 @@
 <?php
 
-use Asus\MvcCrud\Controllers\Admin\DashboardController;
-use Asus\MvcCrud\Controllers\Admin\ProductController;
+use Asus\MvcCrud1\Controllers\Admin\DashboardController;
+use Asus\MvcCrud1\Controllers\Admin\ProductController;
 
 $router->mount('/admin', function () use ($router) {
 

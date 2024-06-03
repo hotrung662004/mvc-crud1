@@ -1,6 +1,6 @@
 <?php
 
-namespace Asus\MvcCrud\Commons;
+namespace Asus\MvcCrud1\Commons;
 
 use eftec\bladeone\BladeOne;
 

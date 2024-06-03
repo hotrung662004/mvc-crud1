@@ -1,7 +1,7 @@
 <?php
-namespace Asus\MvcCrud\Models;
+namespace Asus\MvcCrud1\Models;
 
-use Asus\MvcCrud\Commons\Model;
+use Asus\MvcCrud1\Commons\Model;
 
 class Product extends Model{
     protected string $tableName = 'products';

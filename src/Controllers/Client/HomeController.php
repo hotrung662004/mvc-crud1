@@ -1,8 +1,8 @@
 <?php
 
-namespace Asus\MvcCrud\Controllers\Client;
+namespace Asus\MvcCrud1\Controllers\Client;
 
-use Asus\MvcCrud\Commons\Controller;
+use Asus\MvcCrud1\Commons\Controller;
 
 class HomeController extends Controller
 {

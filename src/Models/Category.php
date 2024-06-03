@@ -1,8 +1,8 @@
 <?php
  
- namespace Asus\MvcCrud\Models ;
+ namespace Asus\MvcCrud1\Models ;
 
-use Asus\MvcCrud\Commons\Model;
+use Asus\MvcCrud1\Commons\Model;
 
  class Category extends Model{
     protected string $tableName = 'categories';
