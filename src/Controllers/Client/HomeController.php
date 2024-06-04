@@ -8,7 +8,7 @@ class HomeController extends Controller
 {
     public function index()
     {
-        $name = 'Hoanntph45196';
+        $name = 'TrungHV';
 
         $this->renderViewClient('home', [
             'name' => $name
